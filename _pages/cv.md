@@ -9,18 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
-You can download the full CV here [Yihao Liu's Curriculum Vitea](../assets/Yihao_Liu_CV.pdf).
+You can download the full CV [here](../assets/Yihao_Liu_CV.pdf).
 
 Education
 ======
-* Ph.D in IIIS, Tsinghua University, 2021 - 2026(expected)
+* P.H.D. in IIIS, Tsinghua University, 2021 - 2026 (expected)
 * B.S. in YuanPei College, Peking University, 2017 - 2021
 
 Internship
 ======
-* 2021.3-2021.7: DP Technology
-  * Duties: Algorithm research intern
-  * Contributor of [deepmd-kitv2.0](https://github.com/deepmodeling/deepmd-kit): Improving embedding process in Deepmd-kit simulation algorithm, get experience about large scope scientific computing. 
+* 2021.3-2021.7: Shanghai AI Lab
+  * Duties: Algorithm Research Intern
+  * Diffusion Language model inference acceleration.
 
 * 2021.3-2021.7: DP Technology
   * Duties: Algorithm research intern
@@ -35,9 +35,8 @@ Skills
 * Programming
   * C++/C
   * Python
-  * Go
 * Systems
-  * Rocksdb
+  * RocksDB
   * Parquet / Arrow
   * Presto / Velox
   * DuckDB
