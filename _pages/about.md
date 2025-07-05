@@ -6,13 +6,44 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<font color=grey> [Updated on 5th July, 2025]</font>
 
-Hi! I'm Yihao Liu, a third-year PHD student at [IIIS](https://iiis.tsinghua.edu.cn/en/), Tsinghua University, advised by [Huanchen Zhang](https://people.iiis.tsinghua.edu.cn/~huanchen/). Previously, I obtained my bachelor's degree at Yuanpei College, Peking University.
-My research interest includes resource optimization problems in cloud database systems and lightweight compression techniques. I'm also closely following the works about machine learning systems and AI4science.
+Hi! I'm Yihao Liu, a fifth-year PhD student at [IIIS, Tsinghua University](https://iiis.tsinghua.edu.cn/en/), advised by [Huanchen Zhang](https://people.iiis.tsinghua.edu.cn/~huanchen/). I hold a bachelor's degree from Yuanpei College, Peking University. Download my CV [here](../assets/Yihao_Liu_CV.pdf).
 
-Recently, we are building a clever distributed execution engine on the cloud. 
+**Research Focus**  
+- **Database Systems**: Optimizing modern analytical engines (e.g., DuckDB, Presto). My published work explores *co-designing storage and execution for memory-efficient query processing*.  
+- **LLM Acceleration**: Researching inference acceleration for diffusion large language models, working with [Biqing Qi](https://biqing-qi.github.io/). I'm looking for opportunities to build efficient LLM infrastructure.
 
-My personal hobbies include classical music (big fan of Daniel Barenboim and Janine Jansen), singing ,and traveling. 
+
+My personal hobbies include classical music (big fan of Daniel Barenboim and Janine Jansen), singing, and traveling. 
 
 Currently practicing Deutsch. Danke für ihre Aufmerksamkeit.
+
+
+## Published Papers
+
+### [Database Papers] co-designing storage and execution for memory-efficient query processing 
+
+  **VLDB '25** | **Selective Late Materialization in Modern Analytical Databases**  
+  **Yihao Liu**, Shaoxuan Tang, Yulong Hui, Hangrui Zhou, Huanchen Zhang  
+  [PDF](link) | [Code](https://github.com/yhliu918/duckdb/tree/latest) 
+
+  **SIGMOD '24** | **LeCo: lightweight compression via learning serial correlations**  
+  **Yihao Liu**, Xinyu Zeng, Huanchen Zhang  
+  [PDF](https://dl.acm.org/doi/10.1145/3639320) | [Code](https://github.com/yhliu918/Learn-to-Compress) 
+
+  **CIDR '24** | **Cost-Intelligent Data Analytics in the Cloud**  
+  Huanchen Zhang, **Yihao Liu**, Jiaqi Yan  
+  [PDF](https://www.cidrdb.org/cidr2024/papers/p78-zhang.pdf) | [Code](https://github.com/yhliu918/presto-oss-new) 
+
+
+### [LLM Papers] 
+
+  **Under Revision (EMNLP '25)** | **OkraLong: A Flexible Retrieval-Augmented Framework for Long-Text Question Answering**  
+  Yulong Hui, **Yihao Liu**, Yao Lu, Huanchen Zhang  
+  [PDF](https://arxiv.org/abs/2503.02603) 
+
+  **Under Review (VLDB '26)** | **OScale-Doc: Scaling LLM-based Predicates over Enormous Documents**  
+  Hengrui Zhang*, Yulong Hui*, **Yihao Liu**, Huanchen Zhang  
+  [Code](https://github.com/Seurgul/ScaleDoc) 
 

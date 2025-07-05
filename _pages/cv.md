@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can download the full CV here [Yihao Liu's Curriculum Vitea](../assets/Yihao_Curriculum_Vitea.pdf).
+You can download the full CV here [Yihao Liu's Curriculum Vitea](../assets/Yihao_Liu_CV.pdf).
 
 Education
 ======
@@ -18,6 +18,10 @@ Education
 
 Internship
 ======
+* 2021.3-2021.7: DP Technology
+  * Duties: Algorithm research intern
+  * Contributor of [deepmd-kitv2.0](https://github.com/deepmodeling/deepmd-kit): Improving embedding process in Deepmd-kit simulation algorithm, get experience about large scope scientific computing. 
+
 * 2021.3-2021.7: DP Technology
   * Duties: Algorithm research intern
   * Contributor of [deepmd-kitv2.0](https://github.com/deepmodeling/deepmd-kit): Improving embedding process in Deepmd-kit simulation algorithm, get experience about large scope scientific computing. 
