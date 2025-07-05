@@ -8,7 +8,7 @@ redirect_from:
 ---
 <font color=grey> [Updated on 5th July, 2025]</font>
 
-Hi! I'm Yihao Liu, a fifth-year PhD student at [IIIS, Tsinghua University](https://iiis.tsinghua.edu.cn/en/), advised by [Huanchen Zhang](https://people.iiis.tsinghua.edu.cn/~huanchen/). I hold a bachelor's degree from Yuanpei College, Peking University. Download my CV [here](../assets/Yihao_Liu_CV.pdf).
+Hi! I'm Yihao Liu (刘奕好), a fifth-year PhD student at [IIIS, Tsinghua University](https://iiis.tsinghua.edu.cn/en/), advised by [Huanchen Zhang](https://people.iiis.tsinghua.edu.cn/~huanchen/). I hold a bachelor's degree from Yuanpei College, Peking University. Download my CV [here](../assets/Yihao_Liu_CV.pdf).
 
 **Research Focus**  
 - **Database Systems**: Optimizing modern analytical engines (e.g., DuckDB, Presto). My published work explores *co-designing storage and execution for memory-efficient query processing*.  
@@ -22,7 +22,8 @@ Currently practicing Deutsch. Danke für ihre Aufmerksamkeit.
 
 ## Published Papers
 
-### [Database Papers] co-designing storage and execution for memory-efficient query processing 
+### Database Papers
+  Theme: <font color=grey>Co-designing storage and execution for memory-efficient query processing </font>
 
   **VLDB '25** | **Selective Late Materialization in Modern Analytical Databases**  
   **Yihao Liu**, Shaoxuan Tang, Yulong Hui, Hangrui Zhou, Huanchen Zhang  
@@ -37,13 +38,13 @@ Currently practicing Deutsch. Danke für ihre Aufmerksamkeit.
   [PDF](https://www.cidrdb.org/cidr2024/papers/p78-zhang.pdf) | [Code](https://github.com/yhliu918/presto-oss-new) 
 
 
-### [LLM Papers] 
+### LLM Papers 
 
   **Under Revision (EMNLP '25)** | **OkraLong: A Flexible Retrieval-Augmented Framework for Long-Text Question Answering**  
   Yulong Hui, **Yihao Liu**, Yao Lu, Huanchen Zhang  
   [PDF](https://arxiv.org/abs/2503.02603) 
 
-  **Under Review (VLDB '26)** | **OScale-Doc: Scaling LLM-based Predicates over Enormous Documents**  
+  **Under Review (VLDB '26)** | **Scale-Doc: Scaling LLM-based Predicates over Enormous Documents**  
   Hengrui Zhang*, Yulong Hui*, **Yihao Liu**, Huanchen Zhang  
   [Code](https://github.com/Seurgul/ScaleDoc) 
 
