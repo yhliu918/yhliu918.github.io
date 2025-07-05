@@ -45,6 +45,7 @@ Currently practicing Deutsch. Danke für ihre Aufmerksamkeit.
   [PDF](https://arxiv.org/abs/2503.02603) 
 
   **Under Review (VLDB '26)** | **Scale-Doc: Scaling LLM-based Predicates over Enormous Documents**  
-  Hengrui Zhang*, Yulong Hui*, **Yihao Liu**, Huanchen Zhang  
+  Hengrui Zhang\*, Yulong Hui\*, **Yihao Liu**, Huanchen Zhang  
   [Code](https://github.com/Seurgul/ScaleDoc) 
 
+<small>* means equal contribution
