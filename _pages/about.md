@@ -9,7 +9,8 @@ redirect_from:
 <font color=grey> [Updated on 5th July, 2025]</font>
 
 Hi! I'm Yihao Liu (刘奕好), a fifth-year PhD student at [IIIS, Tsinghua University](https://iiis.tsinghua.edu.cn/en/), advised by [Huanchen Zhang](https://people.iiis.tsinghua.edu.cn/~huanchen/). I hold a bachelor's degree from Yuanpei College, Peking University. Download my CV [here](../assets/Yihao_Liu_CV.pdf).
-Please contact me via yhliu918@gmail.com. (Notice that liuyihao21@mails.tsinghua.edu.cn is an abandoned email address)
+Please contact me via yhliu918@gmail.com or the telephone number in my CV. (Notice that liuyihao21@mails.tsinghua.edu.cn is an abandoned email address)
+
 
 **Research Focus**  
 - **Database Systems**: Optimizing modern analytical engines (e.g., DuckDB, Presto). My published work explores *co-designing storage and execution for memory-efficient query processing*.  
