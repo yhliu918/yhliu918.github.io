@@ -12,11 +12,10 @@ Hi! I'm Yihao Liu (刘奕好), a fifth-year PhD student at [IIIS, Tsinghua Unive
 
 **Research Focus**  
 - **Database Systems**: Optimizing modern analytical engines (e.g., DuckDB, Presto). My published work explores *co-designing storage and execution for memory-efficient query processing*.  
-- **LLM Acceleration**: Researching inference acceleration for diffusion large language models, working with [Biqing Qi](https://biqing-qi.github.io/). I'm looking for opportunities to build efficient LLM infrastructure.
+- **LLM Inference Acceleration**: Researching inference acceleration for diffusion large language models, working with [Biqing Qi](https://biqing-qi.github.io/). I'm looking for opportunities to build efficient LLM infrastructure.
 
 
 My personal hobbies include classical music (big fan of Daniel Barenboim and Janine Jansen), singing, and traveling. 
-
 Currently practicing Deutsch. Danke für ihre Aufmerksamkeit.
 
 
