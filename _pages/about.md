@@ -39,11 +39,11 @@ Currently practicing Deutsch. Danke für ihre Aufmerksamkeit.
 
 ### LLM Papers 
 
-  **Under Revision (EMNLP '25)** | **OkraLong: A Flexible Retrieval-Augmented Framework for Long-Text Question Answering**  
+  **EMNLP '25 (Findings)** | **OkraLong: A Flexible Retrieval-Augmented Framework for Long-Text Question Answering**  
   Yulong Hui, **Yihao Liu**, Yao Lu, Huanchen Zhang  
   [PDF](https://arxiv.org/abs/2503.02603) 
 
-  **Under Review (VLDB '26)** | **Scale-Doc: Scaling LLM-based Predicates over Enormous Documents**  
+  **Under Review** | **Scale-Doc: Scaling LLM-based Predicates over Enormous Documents**  
   Hengrui Zhang\*, Yulong Hui\*, **Yihao Liu**, Huanchen Zhang  
   [Code](https://github.com/Seurgul/ScaleDoc) 
 
