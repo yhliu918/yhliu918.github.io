@@ -38,6 +38,9 @@ Currently practicing Deutsch. Danke für ihre Aufmerksamkeit.
   Huanchen Zhang, **Yihao Liu**, Jiaqi Yan  
   [PDF](https://www.cidrdb.org/cidr2024/papers/p78-zhang.pdf) | [Code](https://github.com/yhliu918/presto-oss-new) 
 
+  **Preprint** | **Rethinking Vectorized Execution: The Case for Adaptive Pipeline Fragmentation in NUMA-aware Systems**  
+  Hangrui Zhou\*, Yihao Liu\*, Weitao Wan, Mingyu Gao, Huanchen Zhang
+
 
 ### LLM Papers 
 
@@ -47,6 +50,12 @@ Currently practicing Deutsch. Danke für ihre Aufmerksamkeit.
 
   **Under Review** | **Scale-Doc: Scaling LLM-based Predicates over Enormous Documents**  
   Hengrui Zhang\*, Yulong Hui\*, **Yihao Liu**, Huanchen Zhang  
-  [Code](https://github.com/Seurgul/ScaleDoc) 
+  [PDF](https://www.arxiv.org/pdf/2509.12610) | [Code](https://github.com/Seurgul/ScaleDoc) 
+
+  **Preprint** | **A survey of reinforcement learning for large reasoning models**  
+  Kaiyan Zhang, Yuxin Zuo, ... **Yihao Liu**, ..., Biqing Qi, Ning Ding, Bowen Zhou
+  [PDF](https://arxiv.org/pdf/2509.08827?) 
+
+
 
 <small>* means equal contribution
