@@ -35,7 +35,7 @@ Please contact me via yhliu918@gmail.com or the telephone number in my CV. (Noti
   [PDF](https://www.cidrdb.org/cidr2024/papers/p78-zhang.pdf) | [Code](https://github.com/yhliu918/presto-oss-new) 
 
   **Preprint** | **NovaPipe: NUMA-aware Proactive Pipeline Segmentation in Vectorized Execution**  
-  Hangrui Zhou\*, Yihao Liu\*, Jiaoyi Zhang, Mingyu Gao, Huanchen Zhang
+  Hangrui Zhou\*, **Yihao Liu**\*, Jiaoyi Zhang, Mingyu Gao, Huanchen Zhang
 
   **SIGMOD '26** | **G-LeCo: A GPU-Accelerated Framework for High-Throughput Learned Compression**  
   Youyang Xia, Feng Zhang, Jiawei Guan, **Yihao Liu**, Huanchen Zhang, Xiaoyong Du
@@ -44,6 +44,7 @@ Please contact me via yhliu918@gmail.com or the telephone number in my CV. (Noti
 
   **Preprint** | **LATTS: LAtent space Test Time Scaling for diffusion language models**
   **Yihao Liu**, Hangrui Zhou, Ermo Hua, Shuang cheng, Dawei Liu, Kaiyan Zhang,Huanchen Zhang, Biqing Qi, Bowen Zhou
+  [PDF](TBD)
 
   **EMNLP '25 (Findings)** | **OkraLong: A Flexible Retrieval-Augmented Framework for Long-Text Question Answering**  
   Yulong Hui, **Yihao Liu**, Yao Lu, Huanchen Zhang  
