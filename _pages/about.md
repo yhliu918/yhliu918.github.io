@@ -6,15 +6,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<font color=grey> [Updated on 24th Feb, 2026]</font>
+<font color=grey> [Updated on 24th Aug, 2026]</font>
 
-Hi! I'm Yihao Liu (刘奕好), a fifth-year PhD student at [IIIS, Tsinghua University](https://iiis.tsinghua.edu.cn/en/), advised by [Huanchen Zhang](https://people.iiis.tsinghua.edu.cn/~huanchen/). I hold a bachelor's degree from Yuanpei College, Peking University. Download my CV [here](../assets/Yihao_Liu_CV.pdf).
+Hi! I'm Yihao Liu (刘奕好). I recently joined the HY RL infra team @ Tencent, where I focus on building efficient infrastructure, especially in supporting agentic RL. I received my Ph.D. in Computer Science from [IIIS, Tsinghua University](https://iiis.tsinghua.edu.cn/en/), advised by [Huanchen Zhang](https://people.iiis.tsinghua.edu.cn/~huanchen/). I hold a bachelor's degree from Yuanpei College, Peking University. Download my CV [here](../assets/Yihao_Liu_CV.pdf).
 Please contact me via yhliu918@gmail.com or the telephone number in my CV. (Notice that liuyihao21@mails.tsinghua.edu.cn is an abandoned email address)
 
 
 **Research Focus**  
+- **RL Infra**: My work focuses on building efficient and scalable infrastructure for agentic reinforcement learning. I am particularly interested in enabling advanced agent capabilities, including long-horizon and multi-agent collaboration.
 - **Database Systems**: Optimizing modern analytical engines (e.g., DuckDB, Presto). My published work explores *co-designing storage and execution for memory-efficient query processing*.  
-- **RL Infra**: Researching posttraining infra for (diffusion) large language models. I'm looking for opportunities to build efficient LLM infrastructure.
 
 
 ## Published Papers
